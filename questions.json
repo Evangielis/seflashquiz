@@ -1,0 +1,121 @@
+{
+    "questions": [
+        {
+            "subject": "numbers",
+            "question": "L1 cache reference",
+            "answer": {
+                "text": "1 ns",
+                "number": 1,
+                "units": "ns"
+            }
+        },
+        {
+            "subject": "numbers",
+            "question": "Branch prediction error",
+            "answer": {
+                "text": "3 ns",
+                "number": 3,
+                "units": "ns"
+            }
+        },
+        {
+            "subject": "numbers",
+            "question": "L2 cache reference",
+            "answer": {
+                "text": "4 ns",
+                "number": 4,
+                "units": "ns"
+            }
+        },
+        {
+            "subject": "numbers",
+            "question": "Mutex lock/unlock",
+            "answer": {
+                "text": "17 ns",
+                "number": 17,
+                "units": "ns"
+            }
+        },
+        {
+            "subject": "numbers",
+            "question": "Main memory dereference",
+            "answer": {
+                "text": "100 ns",
+                "number": 100,
+                "units": "ns"
+            }
+        },
+        {
+            "subject": "numbers",
+            "question": "Compress 1KB with Snappy",
+            "answer": {
+                "text": "2 us",
+                "number": 2,
+                "units": "us"
+            }
+        },
+        {
+            "subject": "numbers",
+            "question": "Send 2KB over commodity network",
+            "answer": {
+                "text": "88 ns",
+                "number": 88,
+                "units": "ns"
+            }
+        },
+        {
+            "subject": "numbers",
+            "question": "SSD random read",
+            "answer": {
+                "text": "16 us",
+                "number": 16,
+                "units": "us"
+            }
+        },
+        {
+            "subject": "numbers",
+            "question": "Read 1MB sequentially from main memory",
+            "answer": {
+                "text": "5 us",
+                "number": 5,
+                "units": "us"
+            }
+        },
+        {
+            "subject": "numbers",
+            "question": "Read 1MB sequentially from SSD",
+            "answer": {
+                "text": "78 us",
+                "number": 78,
+                "units": "us"
+            }
+        },
+        {
+            "subject": "numbers",
+            "question": "Disk seek",
+            "answer": {
+                "text": "3 ms",
+                "number": 3,
+                "units": "ms"
+            }
+        },
+        {
+            "subject": "numbers",
+            "question": "Read 1MB sequentially from disk",
+            "answer": {
+                "text": "1 ms",
+                "number": 1,
+                "units": "ms"
+            }
+        },
+        {
+            "subject": "numbers",
+            "question": "Packet roundtrip CA to netherlands",
+            "answer": {
+                "text": "150 ms",
+                "number": 150,
+                "units": "ms"
+            }
+        }
+    ]
+}
