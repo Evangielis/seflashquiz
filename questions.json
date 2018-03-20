@@ -1,6 +1,34 @@
 {
     "questions": [
         {
+            "subject": "sorts:heapsort",
+            "question": "Heap sort comparisons O(?)",
+            "answer": {
+                "text": "n log n"
+            }
+        },
+        {
+            "subject": "sorts:heapsort",
+            "question": "Heap sort heapify operation O(?)",
+            "answer": {
+                "text": "n"
+            }
+        },
+        {
+            "subject": "structures:heaps",
+            "question": "Heap extract operation O(?)",
+            "answer": {
+                "text": "log n"
+            }
+        },
+        {
+            "subject": "structures:heaps",
+            "question": "Heap insert operation O(?)",
+            "answer": {
+                "text": "log n"
+            }
+        },
+        {
             "subject": "numbers",
             "question": "L1 cache reference",
             "answer": {
